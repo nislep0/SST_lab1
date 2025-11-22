@@ -50,6 +50,7 @@ python -m pytest
 
 Вхідний файл input.txt:
 
+```bash
 3
 8 5
 ........
@@ -57,6 +58,7 @@ python -m pytest
 ..x.....
 ..x.....
 ........
+```
 
 Команда для запуску тестів у Windows (CMD, а не PowerShell):
 
