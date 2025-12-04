@@ -78,3 +78,7 @@ gc input.txt | python lab1.py
 python3 lab1.py < input.txt
 ```
 
+https://github.com/user-attachments/assets/7a8f7599-b248-4863-b683-f5506388bb8f
+
+
+
